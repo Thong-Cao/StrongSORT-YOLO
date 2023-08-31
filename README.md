@@ -8,7 +8,7 @@ This project focuses on creating a model for estimating vehicle speeds based on 
 
 [Download Demo Video (carspeed.mp4)](carspeed.mp4)
 
-## Sample Images
+## Result comparision
 
 ![Sample Image 1](1.png)
 ![Sample Image 2](2.png)
