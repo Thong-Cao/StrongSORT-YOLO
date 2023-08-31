@@ -4,7 +4,7 @@ This project focuses on creating a model for estimating vehicle speeds based on 
 
 ## Result Demo
 
-[![Vehicle Speed Calculation Demo](carspeed_demo.gif)](carspeed.mp4)
+![Vehicle Speed Calculation Demo](carspeed_demo.gif)
 
 [Download Demo Video (carspeed.mp4)](carspeed.mp4)
 
