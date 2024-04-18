@@ -1,7 +1,7 @@
 # Vehicle Speed Calculation using YOLOV and StrongSORT
 
 ## Introduction
-This project focuses on creating a model for estimating vehicle speeds based on video footage. The **YOLOV** model is employed to **detect vehicles**, while **StrongSORT** is used for** vehicle tracking**. The speed calculation is carried out using the formula **v = s/t, where v represents velocity, s denotes distance, and t stands for time.
+This project focuses on creating a model for estimating vehicle speeds based on video footage. The **YOLOV** model is employed to **detect vehicles**, while **StrongSORT** is used for**vehicle tracking**. The speed calculation is carried out using the formula **v = s/t, where v represents velocity, s denotes distance, and t stands for time.
 **
 
 
