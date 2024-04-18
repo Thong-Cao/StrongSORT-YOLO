@@ -6,14 +6,14 @@ This project focuses on creating a model for estimating vehicle speeds based on 
 
 
 ## Method
-
+![Method](Flow_method.png)
 
 
 ## Calibration Camera
-
+![Calibration](Cablibration_method.png)
 ## Result Demo
 
-![Demo](carspeed_demo.gif)
+![Demo](carspeed.gif)
 
 [Download Demo Video (carspeed.mp4)](carspeed.mp4)
 
